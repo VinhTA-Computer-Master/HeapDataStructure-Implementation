@@ -3,7 +3,9 @@ Heap data structure implemented and tested using CLI Linux OS.
 
 
 Author: Vinh TA
+
 Program: Heap Data Structure
+
 
 This C code program is to be compiled and run using the provided makefile from zip file. This program uses C++ 11 language and the libraries specified in each file to compile. As required by project assignment and consulted from test cases, this program takes user inputs as commands to drive the program itself. Valid user inputs are:
 
